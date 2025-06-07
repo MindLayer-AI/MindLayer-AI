@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Welcome to MindLayer-AI
 
-<!--
-**MindLayer-AI/MindLayer-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MindLayer** is a research-driven AI team composed of MSc and PhD-level engineers in Computer Science. We specialize in delivering scalable and production-ready solutions using Machine Learning, Deep Learning, and Python-based systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What We Do
+- Predictive modeling, classification, and time-series analysis on real-world datasets  
+- Design and training of deep learning architectures (CNN, RNN, LSTM, etc.)  
+- Signal and speech data processing with statistical and neural approaches  
+- End-to-end AI pipelines with clean, modular, and well-documented code  
+- Tools: Python, TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy
+
+---
+
+### ⚙️ Sample Work
+- Disease prediction models using diverse medical datasets  
+- Experimental architectures for signal-based AI problems  
+- LSTM-based forecasting of multivariate time-series  
+- Extensive experience in model tuning, evaluation, and deployment
+
+---
+
+### 📫 Contact & Portfolio
+- 🔗 [LaborX Profile](https://laborx.com/freelancers/users/id380856)   
+- 💰 Payments accepted in **USDT (TRC20 preferred)**
+
+---
+
+> 🚀 MindLayer – Practical, precise, and powerful AI solutions.
