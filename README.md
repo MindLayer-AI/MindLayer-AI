@@ -17,7 +17,15 @@
 - Disease prediction models using diverse medical datasets  
 - Experimental architectures for signal-based AI problems  
 - LSTM-based forecasting of multivariate time-series  
-- Extensive experience in model tuning, evaluation, and deployment
+- Extensive experience in model tuning, evaluation, and deployment  
+
+---
+
+### 🔧 Also Available For
+In addition to our core AI projects, we also take on quick-turnaround tasks such as:
+- Prompt design for ChatGPT and other LLMs  
+- Python scripting for automation or preprocessing  
+- CSV/Excel data cleanup and formatting
 
 ---
 
@@ -28,3 +36,4 @@
 ---
 
 > 🚀 MindLayer – Practical, precise, and powerful AI solutions.
+
